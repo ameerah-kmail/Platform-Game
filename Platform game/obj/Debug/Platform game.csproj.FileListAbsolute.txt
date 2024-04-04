@@ -1,0 +1,11 @@
+C:\Users\Dell\source\repos\Platform game\Platform game\bin\Debug\Platform game.exe.config
+C:\Users\Dell\source\repos\Platform game\Platform game\bin\Debug\Platform game.exe
+C:\Users\Dell\source\repos\Platform game\Platform game\bin\Debug\Platform game.pdb
+C:\Users\Dell\source\repos\Platform game\Platform game\obj\Debug\Platform game.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Platform game\Platform game\obj\Debug\Platform game.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\source\repos\Platform game\Platform game\obj\Debug\Platform_game.Form1.resources
+C:\Users\Dell\source\repos\Platform game\Platform game\obj\Debug\Platform_game.Properties.Resources.resources
+C:\Users\Dell\source\repos\Platform game\Platform game\obj\Debug\Platform game.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\Platform game\Platform game\obj\Debug\Platform game.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Platform game\Platform game\obj\Debug\Platform game.exe
+C:\Users\Dell\source\repos\Platform game\Platform game\obj\Debug\Platform game.pdb
