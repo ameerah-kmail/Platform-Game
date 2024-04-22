@@ -13,3 +13,11 @@ Use arrows to run and space to jump.
       <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/right.png" width="30" />
     </a>
 <br>
+
+## 
+
+![Screenshot (2)](https://github.com/ameerah-kmail/Platform-Game/assets/104325939/66bf6556-d711-4732-9002-87d2d3808213)
+
+![Screenshot (4)](https://github.com/ameerah-kmail/Platform-Game/assets/104325939/61f26162-f94b-48cd-b8aa-13c4993b7c83)
+
+![Screenshot (5)](https://github.com/ameerah-kmail/Platform-Game/assets/104325939/9b4901c5-2465-4486-8bab-78a010586522)
